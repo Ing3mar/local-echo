@@ -43,5 +43,8 @@
   },
   "dependencies": {
     "shell-quote": "^1.6.1"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@ing3mar"
   }
 }
