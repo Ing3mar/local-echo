@@ -1,6 +1,6 @@
 {
   "name": "@ing3mar/local-echo",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A local echo controller for xterm.js",
   "main": "index.js",
   "scripts": {
